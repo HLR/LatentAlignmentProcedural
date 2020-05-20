@@ -3,7 +3,7 @@
 This is the github repository for paper **Latent Alignment of Procedural Concepts in Multimodal Recipes** published in **ALVR2020** ( a ACL2020 workshop). 
 
 # Model overview
-![Model overview](https://www.dropbox.com/s/gaa6crusmr4nkbw/model.png?dl=0)
+![Model overview](https://github.com/HLR/LatentAlignmentProcedural/blob/master/model.png?raw=true)
 # How to run the program
 To start you have to download the images-qa from the [RecipeQA](https://hucvl.github.io/recipeqa/) website and unpack them in the main folder.
 Download and move the following image representations to the main folder.
