@@ -7,9 +7,13 @@ This is the github repository for paper **Latent Alignment of Procedural Concept
 # How to run the program
 To start you have to download the images-qa from the [RecipeQA](https://hucvl.github.io/recipeqa/) website and unpack them in the main folder.
 Download and move the following image representations to the main folder.
+
 [Test Json ids](https://drive.google.com/file/d/1y3F4baVJ7g_IZkJm4ZyA5eu6ltnyEFDL/view?usp=sharing)
+
 [Train Json ids](https://drive.google.com/file/d/1ARBJ3cLXdEPMC9YXtcmUv39iR2fzUc7j/view?usp=sharing)
+
 [Test Image Representations](https://drive.google.com/file/d/1gu-nxCNQxLI3cyQvHRz6FX6RKNPqZEt2/view?usp=sharing)
+
 [Train Image Representations](https://drive.google.com/file/d/1yiiYaJ2qJgqG-JWaOfCMzYQprLJ5DDLJ/view?usp=sharing)
 
 To run the program you have to run the following code.
