@@ -1,6 +1,6 @@
 
 
-This is the github repository for paper **Latent Alignment of Procedural Concepts in Multimodal Recipes** published in **ALVR2020** ( a ACL2020 workshop). 
+This is the github repository for paper **Latent Alignment of Procedural Concepts in Multimodal Recipes** published in **ALVR2020** ( an ACL2020 workshop). 
 
 # Model overview
 ![Model overview](https://github.com/HLR/LatentAlignmentProcedural/blob/master/model.png?raw=true)
